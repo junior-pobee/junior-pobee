@@ -72,7 +72,7 @@
   >
 </p>
 
-Hi! 👋 I'm **Emmanuel Pobee Okpoti**, a student, front-end developer, and founder of **Adapt OS**, based in Accra, Ghana 🇬🇭.
+Hi! 👋 I'm **Emmanuel Pobee Okpoti**, a student, front-end developer, and founder of **Adapt OS** and **Lumen**, based in Accra, Ghana 🇬🇭.
 
 I'm passionate about turning ideas into practical digital experiences. I enjoy building responsive websites, experimenting with interfaces, solving problems, and learning through real projects.
 
