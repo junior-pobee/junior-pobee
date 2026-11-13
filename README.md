@@ -8,7 +8,7 @@
 <!-- FUTURISTIC GRADIENT HEADER -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:164e63,70:2563eb,100:06b6d4&height=230&section=header&text=EMMANUEL%20POBEE%20OKPOTI&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=FRONT-END%20DEVELOPER%20%7C%20FOUNDER%20OF%20ADAPT%20OS&descSize=13&descAlignY=58&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:164e63,70:2563eb,100:06b6d4&height=230&section=header&text=EMMANUEL%20POBEE%20OKPOTI&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=FRONT-END%20DEVELOPER%20%7C%20FOUNDER%20OF%20ADAPT%20OS%20AND%20LUMEN&descSize=13&descAlignY=58&animation=fadeIn"
   width="100%"
   alt="Emmanuel Pobee Okpoti"
 />
